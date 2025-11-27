@@ -15,4 +15,4 @@ This project uses Maven.
 mvn clean package
 
 # run (example)
-java -cp target/Email-Application-java-Mini-Project-1.0-SNAPSHOT.jar com.yourpackage.Main
+java -cp target/Email-Application-java-Mini-Project-1.0-SNAPSHOT.jar com.Main
